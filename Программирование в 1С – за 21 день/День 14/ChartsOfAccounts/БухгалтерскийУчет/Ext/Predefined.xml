@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ChartOfAccountsPredefinedItems" version="2.15">
+	<Item id="a70be66b-4a0f-4878-93a7-b21dd3d94a61">
+		<Name>Активы</Name>
+		<Code>01</Code>
+		<Description>Активы</Description>
+		<AccountType>Active</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+		<ChildItems>
+			<Item id="9d544c5b-16d4-4ce0-b4c5-dbfead86c732">
+				<Name>Товары</Name>
+				<Code>01.1</Code>
+				<Description>Товары</Description>
+				<AccountType>Active</AccountType>
+				<OffBalance>false</OffBalance>
+				<Order/>
+				<AccountingFlags/>
+			</Item>
+			<Item id="525a90dd-b76f-4684-b42c-3f2b66e9a5bf">
+				<Name>Покупатели</Name>
+				<Code>01.2</Code>
+				<Description>Покупатели</Description>
+				<AccountType>Active</AccountType>
+				<OffBalance>false</OffBalance>
+				<Order/>
+				<AccountingFlags/>
+			</Item>
+			<Item id="8a7f150f-2ca8-4d5a-a714-08e83fe4fe5a">
+				<Name>РасчетныйСчет</Name>
+				<Code>01.3</Code>
+				<Description>Расчетный счет</Description>
+				<AccountType>Active</AccountType>
+				<OffBalance>false</OffBalance>
+				<Order/>
+				<AccountingFlags/>
+			</Item>
+			<Item id="def56686-3735-4990-b401-5849e4cd6b6f">
+				<Name>Себестоимость</Name>
+				<Code>01.4</Code>
+				<Description>Себестоимость</Description>
+				<AccountType>Active</AccountType>
+				<OffBalance>false</OffBalance>
+				<Order/>
+				<AccountingFlags/>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="0fc54d49-e46f-4c92-abe8-30b0c3379bc1">
+		<Name>Пассивы</Name>
+		<Code>02</Code>
+		<Description>Пассивы</Description>
+		<AccountType>Passive</AccountType>
+		<OffBalance>false</OffBalance>
+		<Order/>
+		<AccountingFlags/>
+		<ChildItems>
+			<Item id="f289fd81-6e66-481c-b331-f4e64d8de61f">
+				<Name>Поставщики</Name>
+				<Code>02.1</Code>
+				<Description>Поставщики</Description>
+				<AccountType>Passive</AccountType>
+				<OffBalance>false</OffBalance>
+				<Order/>
+				<AccountingFlags/>
+			</Item>
+			<Item id="9dd90784-acef-44db-bdb4-f00f8031ae60">
+				<Name>Выручка</Name>
+				<Code>02.2</Code>
+				<Description>Выручка</Description>
+				<AccountType>Passive</AccountType>
+				<OffBalance>false</OffBalance>
+				<Order/>
+				<AccountingFlags/>
+			</Item>
+		</ChildItems>
+	</Item>
+</PredefinedData>

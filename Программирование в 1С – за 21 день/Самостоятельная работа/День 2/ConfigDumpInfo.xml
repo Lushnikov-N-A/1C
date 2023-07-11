@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="e24bccfc-32f6-40cc-9e74-bfe494ccad94" configVersion="e40da52061a2634983a01548791501dc00000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.Поставщик" id="a5864b01-dbf4-440e-afc5-6b59e8bdb5aa"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Клиент" id="c6742f4b-19ce-4397-b3fa-9546b0a0d4d6"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Прочее" id="cb247d6b-cdec-4992-9cd5-5b94d54f7c95"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ОтветственныйМенеджер" id="daa24dd2-be67-4be3-9b95-d41681a670f2"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="3661fdc9-c4b8-4b8a-bf73-853054527663" configVersion="bacb8545f7bf0242965a86073db6f29400000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.Характеристики" id="76677aa2-dd4f-455b-b51d-f4cffc8c986a"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="2b991cf7-c3ae-4d67-9c2e-58d76b313559" configVersion="c680b26a6d16964c9988ec26771f278800000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="10a7208b-6ba0-40be-a976-c865713de0a7"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ФИО" id="4aa87f3d-456e-4ada-9a44-853df25e7f2d"/>
+		</Metadata>
+		<Metadata name="Configuration.КанцОптТорг" id="92c62f27-4ba4-452a-a65e-e18b88fe214f" configVersion="b37fe2e1f5775a48b8f38e9f0428687700000000"/>
+		<Metadata name="Constant.КанцОптТорг" id="38cc72f5-b902-44d6-8d4e-c0ef9c519111" configVersion="e8f6c2e80bbce649988c99af34f6fd8d00000000"/>
+		<Metadata name="Enum.Должности" id="a7013024-5914-45e3-a3c9-0699a93b80c0" configVersion="7e3b351045c20c43bf7c2589d23acdfd00000000">
+			<Metadata name="Enum.Должности.EnumValue.ГлавныйБухгалтер" id="216e77ce-86d6-4740-9337-e3ab16d59213"/>
+			<Metadata name="Enum.Должности.EnumValue.Бухгалтер" id="280148b1-640a-4dc5-ace7-2b0300b09ef3"/>
+			<Metadata name="Enum.Должности.EnumValue.Кладовщик" id="38aeeb88-7f48-4f0e-9c29-c8ef70347bbb"/>
+			<Metadata name="Enum.Должности.EnumValue.Менеджер" id="672bc1da-c74d-43cb-8406-5a56fd6d8df9"/>
+			<Metadata name="Enum.Должности.EnumValue.СистемныйАдминистратор" id="86407af5-8018-4a2e-9fe0-6c582a8e1892"/>
+			<Metadata name="Enum.Должности.EnumValue.Грузчик" id="947028ab-2540-426b-ab31-112dabe40bf3"/>
+			<Metadata name="Enum.Должности.EnumValue.Секретарь" id="abc950e8-94b6-431d-8d83-efb243211cfd"/>
+			<Metadata name="Enum.Должности.EnumValue.ВодительЭкспедитор" id="d83125ca-0965-4c5d-89b4-fc87f74d53a7"/>
+			<Metadata name="Enum.Должности.EnumValue.Директор" id="dd990f77-33a6-4f17-9ce7-28f526a35739"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="5e997dc6-448f-4dfc-9fef-839849d0f56e" configVersion="6a9117e6207c0246b889c76a02a745de00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
